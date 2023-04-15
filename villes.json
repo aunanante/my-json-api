@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "villeName": "nguélémendouga",
+        "createdAt": "2023-04-10T11:41:51.000Z",
+        "updatedAt": "2023-04-10T11:41:51.000Z"
+    },
+    {
+        "id": 2,
+        "villeName": "Berbérati",
+        "createdAt": "2023-04-10T12:00:20.000Z",
+        "updatedAt": "2023-04-10T12:00:20.000Z"
+    },
+    {
+        "id": 3,
+        "villeName": "Babouché Ngalleu",
+        "createdAt": "2023-04-10T12:00:51.000Z",
+        "updatedAt": "2023-04-10T12:00:51.000Z"
+    },
+    {
+        "id": 4,
+        "villeName": "Santa",
+        "createdAt": "2023-04-10T12:01:05.000Z",
+        "updatedAt": "2023-04-10T12:01:05.000Z"
+    },
+    {
+        "id": 5,
+        "villeName": "Ngaoudal",
+        "createdAt": "2023-04-10T12:01:23.000Z",
+        "updatedAt": "2023-04-10T12:01:23.000Z"
+    },
+    {
+        "id": 6,
+        "villeName": "Kollofata",
+        "createdAt": "2023-04-10T12:02:15.000Z",
+        "updatedAt": "2023-04-10T12:02:15.000Z"
+    },
+    {
+        "id": 7,
+        "villeName": "Lomié",
+        "createdAt": "2023-04-10T12:03:35.000Z",
+        "updatedAt": "2023-04-10T12:03:35.000Z"
+    },
+    {
+        "id": 8,
+        "villeName": "Mbida Mbani",
+        "createdAt": "2023-04-10T12:03:56.000Z",
+        "updatedAt": "2023-04-10T12:03:56.000Z"
+    },
+    {
+        "id": 9,
+        "villeName": "Mbankomo",
+        "createdAt": "2023-04-10T12:04:09.000Z",
+        "updatedAt": "2023-04-10T12:04:09.000Z"
+    },
+    {
+        "id": 10,
+        "villeName": "Eseka",
+        "createdAt": "2023-04-10T12:04:19.000Z",
+        "updatedAt": "2023-04-10T12:04:19.000Z"
+    },
+    {
+        "id": 11,
+        "villeName": "Limbé",
+        "createdAt": "2023-04-10T12:04:38.000Z",
+        "updatedAt": "2023-04-10T12:04:38.000Z"
+    }
+]
